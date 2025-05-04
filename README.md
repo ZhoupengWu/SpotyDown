@@ -38,7 +38,8 @@ This python script allows to download automatically songs in your Liked Songs pl
 1. **Download or clone the repository**
 
     ```bash
-    git clone
+    git clone https://github.com/ZhoupengWu/SpotyDown.git
+    cd SpotyDown
     ```
 
 2. **Create a virtual environment**
