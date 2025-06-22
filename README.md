@@ -28,10 +28,6 @@ This python script allows to download automatically songs in your Liked Songs pl
     ```bash
     brew install ffmpeg
     ```
-  - **On Termux**
-    ```bash
-    pkg install ffmpeg
-    ```
 
 ## 🛠️ Installation and Setup
 
@@ -51,7 +47,7 @@ This python script allows to download automatically songs in your Liked Songs pl
       .venv\bin\Activate.ps1
       ```
 
-   - **Linux/macOS/Termux**
+   - **Linux/macOS**
       ```bash
       python -m venv .venv
       source .venv/bin/activate
